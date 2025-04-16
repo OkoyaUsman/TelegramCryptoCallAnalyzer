@@ -19,7 +19,7 @@ This bot monitors specified Telegram groups for cryptocurrency contract addresse
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mokoshalb/TelegramCryptoCallAnalyzer.git
+git clone https://github.com/OkoyaUsman/TelegramCryptoCallAnalyzer.git
 cd TelegramCryptoCallAnalyzer
 ```
 
